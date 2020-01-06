@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="root">
+    <h2>Animals</h2>
+    <ul>
+        <li v-for="animal in animals" v-text="animal.name"></li>
+    </ul>
+    <h2>Non - mammals</h2>
+    <ul>
+        <li v-for="animal in nonMammal" v-text="animal.name"></li>
+    </ul>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script>
+    var app =  new Vue({
+        el: '#root',
+        data: {
+            animals: [
+                { name: 'Hen', mammal: true },
+
+                { name: 'Man', mammal: true },
+
+                { name: 'Lizard', mammal: false },
+
+                { name: 'Cat', mammal: true },
+
+                { name: 'Snake', mammal: false },
+
+                { name: 'Flee', mammal: false }
+
+            ]
+        },
+        computed: {
+            nonMammal() {
+                return this.animals.filter(animal => ! animal.mammal);
+            }
+        }
+    });
+</script>
+</body>
+</html>

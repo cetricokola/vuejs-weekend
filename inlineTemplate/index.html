@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+</head>
+<style type="text/css">body {
+    padding-top: 40px;
+}</style>
+<body>
+<div id="root" class="container">
+    <progress-view inline-template>
+        <div>
+            <h1>Your progress through this course is {{ completedRate}}</h1>
+            <p>
+                <button @click="completedRate += 10">Add Rate</button>
+            </p>
+        </div>
+    </progress-view>
+
+</div>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
