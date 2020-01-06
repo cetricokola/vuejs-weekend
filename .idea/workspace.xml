@@ -1,7 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e3875c4-3d18-435a-ad89-3092934522c0" name="Default Changelist" comment="" />
+    <list default="true" id="0e3875c4-3d18-435a-ad89-3092934522c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/.styleci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/public/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-app/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,22 +107,31 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VvZkArydlKeCXDbmVsbxq8JTWr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -61,13 +162,33 @@
       <updated>1578135669721</updated>
       <workItem from="1578135672295" duration="7578000" />
       <workItem from="1578243298750" duration="3376000" />
+      <workItem from="1578288850697" duration="1449000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state width="1638" height="276" key="GridCell.Tab.0.bottom" timestamp="1578289073130">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="276" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1578289073130" />
+    <state width="1638" height="276" key="GridCell.Tab.0.center" timestamp="1578289073128">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="276" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1578289073128" />
+    <state width="1638" height="276" key="GridCell.Tab.0.left" timestamp="1578289073127">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="276" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1578289073127" />
+    <state width="1638" height="276" key="GridCell.Tab.0.right" timestamp="1578289073129">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="276" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1578289073129" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1578148547839">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
